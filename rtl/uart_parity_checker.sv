@@ -1,6 +1,11 @@
 /*
 The `uart_parity_checker` module is a parity checker for UART (Universal Asynchronous Receiver/Transmitter) data.
 Author: Foez Ahmed (foez.official@gmail.com)
+<br>
+<br>This file is part of squared-studio:uart
+<br>Copyright (c) 2024 squared-studio
+<br>Licensed under the MIT License
+<br>See LICENSE file in the project root for full license information
 */
 
 module uart_parity_checker #(
